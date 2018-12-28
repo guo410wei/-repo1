@@ -19,4 +19,7 @@ public class demo1 {
 	public void test4() {
         System.out.println("test1......................");
     }
+	public void test5() {
+        System.out.println("test1......................");
+    }
 }
