@@ -1,4 +1,6 @@
-public class demo1 {
+public class demo1 {public void test6() {
+        System.out.println("test1......................");
+    }
 
     
     public void testHelloWrold() {
@@ -22,8 +24,18 @@ public class demo1 {
 	public void test5() {
         System.out.println("test1......................");
     }
+
 	
 	public void test6() {
+	    System.out.println("test1......................");
+	}<<<<<<< .mine
+	
+=======
+	
+>>>>>>> .theirs
+	public void test7() {
         System.out.println("test1......................");
     }
+	
+	
 }
